@@ -1,0 +1,65 @@
+{
+  "achievements": [
+    {
+      "referenceName": "First Victory",
+      "vendorIdentifier": "ACHIEVEMENT_FIRST_VICTORY",
+      "points": 10,
+      "showBeforeEarned": true,
+      "repeatable": false,
+      "imageFile": "first_victory.png",
+      "localizations": [
+        {
+          "localeCode": "en-US",
+          "name": "First Victory",
+          "beforeEarnedDescription": "Win your first match to earn this achievement.",
+          "afterEarnedDescription": "You won your first match!"
+        },
+        {
+          "localeCode": "es-MX",
+          "name": "Primera Victoria",
+          "beforeEarnedDescription": "Gana tu primer partido para desbloquear este logro.",
+          "afterEarnedDescription": "¡Ganaste tu primer partido!"
+        }
+      ]
+    },
+    {
+      "referenceName": "Veteran Player",
+      "vendorIdentifier": "ACHIEVEMENT_VETERAN",
+      "points": 50,
+      "showBeforeEarned": false,
+      "repeatable": false,
+      "imageFile": "veteran.png",
+      "localizations": [
+        {
+          "localeCode": "en-US",
+          "name": "Veteran Player",
+          "beforeEarnedDescription": "Play 100 matches to unlock this achievement.",
+          "afterEarnedDescription": "You've played 100 matches. You're a veteran!"
+        }
+      ]
+    },
+    {
+      "referenceName": "High Scorer",
+      "vendorIdentifier": "ACHIEVEMENT_HIGH_SCORE",
+      "pointValue": 25,
+      "showBeforeEarned": true,
+      "repeatable": true,
+      "localizations": [
+        {
+          "localeCode": "en-US",
+          "name": "High Scorer",
+          "beforeEarnedDescription": "Score 10,000 points in a single match.",
+          "afterEarnedDescription": "Amazing score! You scored 10,000 points in one match.",
+          "imageFile": "high_score_en.png"
+        },
+        {
+          "localeCode": "fr-FR",
+          "name": "Grand Marqueur",
+          "beforeEarnedDescription": "Marquez 10 000 points en un seul match.",
+          "afterEarnedDescription": "Score incroyable! Vous avez marqué 10 000 points en un seul match.",
+          "imageFile": "high_score_fr.png"
+        }
+      ]
+    }
+  ]
+}

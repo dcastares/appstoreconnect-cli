@@ -1,0 +1,77 @@
+﻿{
+    "achievements":  [
+                         {
+                             "referenceName":  "Fresh Graduate",
+                             "vendorIdentifier":  "fresh_graduate",
+                             "points":  10,
+                             "showBeforeEarned":  true,
+                             "repeatable":  false,
+                             "position":  1,
+                             "imageFile":  "fresh_graduate.png",
+                             "imageFileName":  "fresh_graduate.png",
+                             "locale":  [
+                                            {
+                                                "localeCode":  "zh-Hans",
+                                                "name":  "Fresh Graduate",
+                                                "beforeEarnedDescription":  "Tutorial completed",
+                                                "afterEarnedDescription":  "已解锁：Fresh Graduate"
+                                            },
+                                            {
+                                                "localeCode":  "en-US",
+                                                "name":  "Fresh Graduate",
+                                                "beforeEarnedDescription":  "Tutorial completed",
+                                                "afterEarnedDescription":  "Unlocked: Fresh Graduate"
+                                            },
+                                            {
+                                                "localeCode":  "fr",
+                                                "name":  "Fresh Graduate",
+                                                "beforeEarnedDescription":  "Tutorial completed",
+                                                "afterEarnedDescription":  "Débloqué : Fresh Graduate"
+                                            },
+                                            {
+                                                "localeCode":  "de",
+                                                "name":  "Fresh Graduate",
+                                                "beforeEarnedDescription":  "Tutorial completed",
+                                                "afterEarnedDescription":  "Freigeschaltet: Fresh Graduate"
+                                            },
+                                            {
+                                                "localeCode":  "it",
+                                                "name":  "Fresh Graduate",
+                                                "beforeEarnedDescription":  "Tutorial completed",
+                                                "afterEarnedDescription":  "Sbloccato: Fresh Graduate"
+                                            },
+                                            {
+                                                "localeCode":  "ja",
+                                                "name":  "Fresh Graduate",
+                                                "beforeEarnedDescription":  "Tutorial completed",
+                                                "afterEarnedDescription":  "アンロック: Fresh Graduate"
+                                            },
+                                            {
+                                                "localeCode":  "ko",
+                                                "name":  "Fresh Graduate",
+                                                "beforeEarnedDescription":  "Tutorial completed",
+                                                "afterEarnedDescription":  "해제됨: Fresh Graduate"
+                                            },
+                                            {
+                                                "localeCode":  "pt",
+                                                "name":  "Fresh Graduate",
+                                                "beforeEarnedDescription":  "Tutorial completed",
+                                                "afterEarnedDescription":  "Desbloqueado: Fresh Graduate"
+                                            },
+                                            {
+                                                "localeCode":  "ru",
+                                                "name":  "Fresh Graduate",
+                                                "beforeEarnedDescription":  "Tutorial completed",
+                                                "afterEarnedDescription":  "Открыто: Fresh Graduate"
+                                            },
+                                            {
+                                                "localeCode":  "es",
+                                                "name":  "Fresh Graduate",
+                                                "beforeEarnedDescription":  "Tutorial completed",
+                                                "afterEarnedDescription":  "Desbloqueado: Fresh Graduate"
+                                            }
+                                        ]
+                         }
+                               
+                     ]
+}

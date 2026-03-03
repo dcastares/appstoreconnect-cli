@@ -1,0 +1,33 @@
+# Build output
+bin/
+obj/
+
+# Logs
+logs/
+
+# Report output
+out/
+
+# .NET user secrets
+*.user
+
+# Private keys — never commit
+*.p8
+*.pem
+*.key
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.user
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
