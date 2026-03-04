@@ -31,3 +31,4 @@ Thumbs.db
 *.nupkg
 .nuget/
 packages/
+/prod-config
